@@ -1,0 +1,56 @@
+h4{
+  color: #797772;
+}
+#line{
+  width: 45px;
+  height: 3px;
+  background-color: #929292
+}
+
+section{
+  display: block;
+    width: 405px;
+  height: 265px;
+  color: #707070;
+}
+img{
+  width: 120px;
+  height: 115px;
+}
+#one{
+  top:80px;
+  left: 7px;
+  position: absolute;
+}
+#two{
+  top:80px;
+  left: 148px;
+  position: absolute;
+}
+#three{
+  top:80px;
+  left: 291px;
+  position: absolute;
+}
+#four{
+  top:228px;
+  left: 7px;
+  position: absolute;
+}
+#five{
+  top:228px;
+  left: 148px;
+  position: absolute;
+}
+#six{
+  top:228px;
+  left: 291px;
+  position: absolute;
+}
+.name_lastname{
+  color: white;
+  position: absolute;
+  bottom: 5px;
+  font-size: 70%;
+  right: 9px;
+}
